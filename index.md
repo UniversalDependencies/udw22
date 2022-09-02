@@ -1,15 +1,15 @@
 ---
 layout: page
-title: UDW 2021
+title: UDW 2022
 ---
 
-# Universal Dependencies Workshop 2021 (UDW 2021)
+# Universal Dependencies Workshop 2022 (UDW 2022)
 
-### [SyntaxFest 2021](https://syntaxfest.github.io/), Online, 21 to 25 March 2022.
+### [SyntaxFest 2022](https://syntaxfest.github.io/), Online, 21 to 25 March 2022.
 
-UDW 2021 will be held at the SyntaxFest online (zoom and gather.town), during the week of
+UDW 2022 will be held at the SyntaxFest online (zoom and gather.town), during the week of
 March 21-March 25, 2022. 
-The proceedings have been published preemptively, in December 2021.
+The proceedings have been published preemptively, in December 2022.
 
 
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
