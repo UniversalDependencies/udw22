@@ -1,2 +1,2 @@
-# UDW22
-2022 Workshop on Universal Dependencies 
+# UDW23
+2023 Workshop on Universal Dependencies
