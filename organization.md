@@ -7,12 +7,13 @@ title: Organization
 
 ## UDW Workshop chairs & organizing committee
 
-* Miryam de Lhoneux, Uppsala University - KU Leuven - University of Copenhagen
-* Reut Tsarfaty, Bar-Ilan University - AI2
+- Loïc Grobol, Université Paris Nanterre
+- Francis M. Tyers, Indiana University
 
-##  SyntaxFest Local organizing committee
-* Petya Osenova, Bulgarian Academy of Sciences
-* Kiril Simov, Bulgarian Academy of Sciences
+## GURT Local organizing committee
+
+- Amir Zeldes, Georgetown University
+- Nathan Schneider, Georgetown University
 
 ## Program committee
 
