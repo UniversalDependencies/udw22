@@ -7,7 +7,7 @@ title: UDW 2023
 
 **[SyntaxFest 2023](https://syntaxfest.github.io/), [GURT 2023](https://gurt.georgetown.edu/gurt-2023), Washington, DC, 9-12 March 2023.**
 
-UDW 2023 will be held at the SyntaxFest 2023, held during the [Georetown University Round Table
+UDW 2023 will be part of SyntaxFest 2023, held during the [Georgetown University Round Table
 2023](https://gurt.georgetown.edu/gurt-2023).
 
 
